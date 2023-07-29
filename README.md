@@ -1,0 +1,2 @@
+# ALU-MIPS-Implementation
+ The objective of this project was to implement a basiccalculator through the use of logical operators. The projectprovided insight on how digital circuits operate and how thelogic behind the circuits are implemented. The program waswritten using the MIPS assembly language and tested with aprovided testing file which matched the outputs of the logicalcalculator operations with the MIPS arithmetic instruction set.
